@@ -28,6 +28,10 @@ require("lazy").setup({
     "ThePrimeagen/vim-be-good", lazy = false
   },
 
+  {
+    "olimorris/codecompanion.nvim", lazy = false
+  },
+
   { import = "plugins" },
 }, lazy_config)
 
